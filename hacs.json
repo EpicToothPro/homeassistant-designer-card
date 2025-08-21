@@ -1,0 +1,8 @@
+{
+  "name": "Designer Card",
+  "content_in_root": true,
+  "filename": "designer-card.js",
+  "type": "plugin",
+  "homeassistant": "2023.8.0",
+  "render_readme": true
+}

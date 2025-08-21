@@ -1,0 +1,12 @@
+type: custom:designer-card
+title: Movie Night
+entity: scene.movie_night
+icon: mdi:popcorn
+density: large
+style:
+  background: linear-gradient(135deg, #3b82f6, #8b5cf6)
+  color: white
+  padding: 20
+  radius: 22
+tap_action:
+  action: toggle

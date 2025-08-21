@@ -1,0 +1,12 @@
+type: custom:designer-card
+title: Living Room Light
+entity: light.living_room
+icon: mdi:lightbulb-on
+density: normal
+style:
+  background: linear-gradient(90deg, #ffd700, #ff8c00)
+  color: "#111"
+  padding: 16
+  radius: 18
+tap_action:
+  action: toggle

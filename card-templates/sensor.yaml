@@ -1,0 +1,11 @@
+type: custom:designer-card
+title: Outside Temperature
+entity: sensor.outside_temperature
+icon: mdi:thermometer
+density: compact
+style:
+  background: "#f5f8ff"
+  color: "#0f172a"
+  padding: 12
+  radius: 14
+footer_text: Updated automatically

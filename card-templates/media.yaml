@@ -1,0 +1,13 @@
+type: custom:designer-card
+title: TV Media
+entity: media_player.living_room_tv
+icon: mdi:television
+density: normal
+style:
+  background: "#1e1e1e"
+  color: "#fafafa"
+  padding: 18
+  radius: 20
+header_text: Now Playing
+tap_action:
+  action: more-info
